@@ -1,0 +1,23 @@
+{
+	"name": "fcc-npm-package-json",
+	"author": "Thiago Carvalho",
+	"description": "know it by your self",
+	"version": "1.0.0",
+	"keywords": [
+		"supermario",
+		"luigi",
+		"princesspeach"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"express": "^5.0.0-alpha.8"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://fakeurl/tobe.git"
+	}
+}
